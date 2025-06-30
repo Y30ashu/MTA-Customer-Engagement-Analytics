@@ -56,29 +56,37 @@ The key steps I involved are:
 
 Here are the key findings from my analysis, with each point corresponding to a distinct visualization:
 
-* **Figure 1: Call Center Performance Overview (`Call_center_performance.jpg`)**
+* **Figure 1: Call Center Performance Overview**
     * My analysis of call center performance, as seen in **Figure 1**, provides a comprehensive overview of key metrics such as Average Time to Answer and Calls Answered Rate over time. This dashboard highlights [describe key trends/patterns within this single image].
+    ![Call Center Performance Overview](images/Call_center_performance.jpg)
 
-* **Figure 2: Executive Summary Dashboard (`Executive_summary.jpg`)**
+* **Figure 2: Executive Summary Dashboard**
     * For a high-level understanding of overall customer engagement, **Figure 2** presents an executive summary dashboard. This visualization consolidates key performance indicators, showcasing [describe high-level trends/successes from this summary view].
+    ![Executive Summary Dashboard](images/Executive_summary.jpg)
 
-* **Figure 3: Call Volume Forecasting and Prediction Results (`Forecasting.jpg`)**
+* **Figure 3: Call Volume Forecasting and Prediction Results**
     * To aid in strategic planning, **Figure 3** illustrates the results of my call volume forecasting model. This includes [describe elements like predicted trends, actual vs. predicted, or model evaluation metrics from this image].
+    ![Call Volume Forecasting and Prediction Results](images/Forecasting.jpg)
 
-* **Figure 4: Customer Engagement Traffic Across Channels (`Traffic_over_chnannels.jpg`)**
+* **Figure 4: Customer Engagement Traffic Across Channels**
     * Understanding how customers reach out is crucial. **Figure 4** provides a breakdown of customer engagement traffic across various channels (e.g., calls, social media, help points), highlighting [describe dominant channels or shifts in usage from this image].
+    ![Customer Engagement Traffic Across Channels](images/Traffic_over_chnannels.jpg)
 
-* **Figure 5: Alerts and Service Notice Impact on Customer Engagement (`Alerst_and_service_notice.jpg`)**
+* **Figure 5: Alerts and Service Notice Impact on Customer Engagement**
     * The effect of operational communications on customer engagement is shown in **Figure 5**. This figure explores [describe how alerts/notices might correlate with engagement metrics or customer inquiries based on this image].
+    ![Alerts and Service Notice Impact on Customer Engagement](images/Alerst_and_service_notice.jpg)
 
-* **Figure 6: Help Point Service Usage and Effectiveness (`Help_point_service.jpg`)**
+* **Figure 6: Help Point Service Usage and Effectiveness**
     * Engagement through physical touchpoints like Help Points is detailed in **Figure 6**. This visualization presents [describe usage patterns, common issues reported via Help Points, or their effectiveness based on this image].
+    ![Help Point Service Usage and Effectiveness](images/Help_point_service.jpg)
 
-* **Figure 7: Social Media Engagement Trends (`Socialmedia_engagement.jpg`)**
+* **Figure 7: Social Media Engagement Trends**
     * Social media is a significant channel for customer interaction. **Figure 7** showcases key trends and insights from social media engagement, including [describe volume of mentions, sentiment trends, or key topics discussed on social media based on this image].
+    ![Social Media Engagement Trends](images/Socialmedia_engagement.jpg)
 
-* **Figure 8: Written Customer Feedback & Response Metrics (`Written_feedback_response.jpg`)**
+* **Figure 8: Written Customer Feedback & Response Metrics**
     * Analyzing direct written feedback provides valuable qualitative insights. **Figure 8** illustrates metrics related to written feedback received and response efforts, such as [describe volume, response times, or common themes derived from written feedback based on this image].
+    ![Written Customer Feedback & Response Metrics](images/Written_feedback_response.jpg)
 
 ## Business Recommendations
 
@@ -137,30 +145,4 @@ To replicate this analysis:
 
 ## Contact
 
-[Your Name] - [Your LinkedIn Profile URL] - [Your Email Address]
-
----
-
-**Figure 1: Call Center Performance Overview**
-![Call Center Performance Overview](images/Call_center_performance.jpg)
-
-**Figure 2: Executive Summary Dashboard**
-![Executive Summary Dashboard](images/Executive_summary.jpg)
-
-**Figure 3: Call Volume Forecasting and Prediction Results**
-![Call Volume Forecasting and Prediction Results](images/Forecasting.jpg)
-
-**Figure 4: Customer Engagement Traffic Across Channels**
-![Customer Engagement Traffic Across Channels](images/Traffic_over_chnannels.jpg)
-
-**Figure 5: Alerts and Service Notice Impact on Customer Engagement**
-![Alerts and Service Notice Impact on Customer Engagement](images/Alerst_and_service_notice.jpg)
-
-**Figure 6: Help Point Service Usage and Effectiveness**
-![Help Point Service Usage and Effectiveness](images/Help_point_service.jpg)
-
-**Figure 7: Social Media Engagement Trends**
-![Social Media Engagement Trends](images/Socialmedia_engagement.jpg)
-
-**Figure 8: Written Customer Feedback & Response Metrics**
-![Written Customer Feedback & Response Metrics](images/Written_feedback_response.jpg)
+[Yash Garg] - [linkedin.com/in/yg98] - [yashgarg9099@gmail.com]
