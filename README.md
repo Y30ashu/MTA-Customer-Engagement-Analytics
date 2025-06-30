@@ -61,49 +61,57 @@ Here are the key findings from my analysis, with each point corresponding to a d
     * Help Point Activations totaled ~3.63M, with an excellent average response time of ~11.4 seconds, reflecting strong on-ground responsiveness.
     * Social Media Satisfaction Score averaged ~3.7 (out of 5), showing generally positive public sentiment with room for improvement.
     * Overall, while Help Points perform excellently and social media is satisfactory, the call center shows significant missed call opportunities for service enhancement.
+      
     ![Executive Summary Dashboard](images/Executive_summary.jpg)
 
 * **Figure 2: Customer Engagement Traffic Across Channels**
     * Understanding how customers reach out is crucial. Figure 3 provides a breakdown of customer engagement traffic across various channels (e.g., calls, social media, help points), highlighting customers prefer to ask queries over call the most, whereas least on social media. Also, after 2019 number of queries decreased drastically because of COVID-19.
+      
     ![Customer Engagement Traffic Across Channels](images/Traffic_over_chnannels.jpg)
 
 * **Figure 3: Call Center Performance Overview**
     * The line chart shows an inverse trend between Calls Answered Rate and Avg Time to Answer. As average wait times increased from ~150s in 2017 to ~350s in 2022, answer rates declined from ~93% to ~78%.
     * The scatter plot quantifies this relationship, indicating a strong negative correlation – when average wait time exceeds 300s, answer rates fall below 80%, highlighting the criticality of reducing wait times for better service.
     * The bar chart compares Total Incoming Calls vs Calls Answered per year. Even during low-demand Covid years, a consistent 10-20% gap remains, implying persistent operational limitations.
+      
     ![Call Center Performance Overview](images/Call_center_performance.jpg)
 
 * **Figure 4: Social Media Engagement Trends**
     * Mentions peaked in 2019 (~600K) with agency responses increasing proportionally, followed by a decline post-Covid to ~200K mentions in 2022.
     * Customer Satisfaction Score rose sharply from single digits in 2017 to ~45 in 2020, with a slight decline thereafter, suggesting good but plateauing satisfaction.
     * The scatter plot reveals no strong direct correlation between number of responses sent and satisfaction score, implying that quality of responses drives satisfaction more than quantity.
-    * Overall, investing in response quality, tone, and resolution effectiveness will have greater impact than merely increasing response volumes
+    * Overall, investing in response quality, tone, and resolution effectiveness will have greater impact than merely increasing response volumes.
+      
     ![Social Media Engagement Trends](images/Socialmedia_engagement.jpg)
 
 * **Figure 5: Help Point Service Usage and Effectiveness**
     * Help Point Activations peaked in 2018 (~900K) but declined by ~66% to ~300K by 2022. While Covid impacted usage, continued decline suggests shifting customer preferences or reduced footfall.
     * Average response time, however, has steadily increased from ~9.7s in 2017 to ~14s in 2022.
     * Despite declining usage, slower responses indicate operational inefficiencies. Maintaining quick response standards is essential to ensure customer safety and confidence in Help Points as a reliable              channel.
+      
     ![Help Point Service Usage and Effectiveness](images/Help_point_service.jpg)
 
 * **Figure 6: Written Customer Feedback & Response Metrics**
     * The bar chart shows Written Responses Sent consistently exceeding Written Feedback Received across years, indicating proactive outreach.
     *	Feedback peaked in 2019 (~80K) and declined post-pandemic, suggesting customers are moving towards digital or real-time channels.
     *	The gauge shows ~540K total written responses sent, highlighting significant resource allocation to this channel.
-    * The takeaway is that while proactive written responses build trust, monitoring customer channel preferences will optimize resourcing
+    * The takeaway is that while proactive written responses build trust, monitoring customer channel preferences will optimize resourcing.
+      
     ![Written Customer Feedback & Response Metrics](images/Written_feedback_response.jpg)
 
 * **Figure 7: Alerts and Service Notice Impact on Customer Engagement**
     * Displays, Web, and Service Emails/Text Alerts remain the dominant channels, indicating high reliance on digital communication.
     *	Posters and Elevator/Escalator alerts have minimal usage, suggesting either low operational focus or user uptake.
     *	Total alerts peaked in 2019 (~350K) and declined since then, reflecting service and operational adjustments during the pandemic.
-    * This analysis helps prioritize channel investments towards digital platforms while evaluating the need to strengthen underutilized channels like elevator/escalator alerts for accessibility compliance.”
+    * This analysis helps prioritize channel investments towards digital platforms while evaluating the need to strengthen underutilized channels like elevator/escalator alerts for accessibility compliance.
+      
     ![Alerts and Service Notice Impact on Customer Engagement](images/Alerst_and_service_notice.jpg)
 
 * **Figure 8:  Call Volume Forecasting and Prediction Results**
     * The model forecasts calls stabilizing around ~300K per year, with a wide confidence interval reflecting forecast uncertainty.
     *	Historical decline from ~950K in 2018 to ~300K in 2022 is projected to flatten, but external factors like service changes or digital adoption could shift demand significantly.
-    * For planning, the baseline can guide resource allocation while the wide confidence band suggests regularly updating forecasts with new data.”
+    * For planning, the baseline can guide resource allocation while the wide confidence band suggests regularly updating forecasts with new data.
+      
     ![Call Volume Forecasting and Prediction Results](images/Forecasting.jpg)
 
 ## Business Recommendations
