@@ -44,11 +44,10 @@ The key steps involved are:
     * Analyzing trends in `Avg Time to Answer (s)` and `Calls Answered Rate` over time.
     * Identifying correlations between different metrics (e.g., how `Avg Time to Answer` impacts `Calls Answered Rate`).
     * Visualizing distributions and relationships to uncover patterns.
-3.  **Feature Engineering (if applicable):** Creating new features from existing ones to enhance model performance or provide deeper insights.
-4.  **Statistical Modeling:** (Based on your `MTA_NYCT.ipynb` file, it appears you are using Linear Regression).
+3.  **Statistical Modeling:** 
     * Building a linear regression model to predict `Calls Answered Rate` based on `Avg Time to Answer (s)`.
     * Evaluating the model's performance and interpreting the coefficients to understand the impact of wait times.
-5.  **Insights & Recommendations:** Translating technical findings into clear, actionable business recommendations.
+4.  **Insights & Recommendations:** Translating technical findings into clear, actionable business recommendations.
 
 ## Analysis and Key Findings
 
