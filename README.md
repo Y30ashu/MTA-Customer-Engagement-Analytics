@@ -52,35 +52,28 @@ The key steps involved are:
 
 ## Analysis and Key Findings
 
-*(This section is crucial. You'll fill this in with the specific insights from your analysis. Use your screenshots to illustrate these points.)*
+This section is crucial for telling your project's story. You will fill this in with the specific insights from your analysis, using your visualizations to illustrate these points.
 
 Here are some examples of what you might include, tailored to your findings:
 
 * **Trend Analysis of Call Metrics:**
-    * "Our analysis reveals a significant trend in `Average Time to Answer` over the years. As seen in **Figure 1**, there was a notable increase in wait times during [specific period, e.g., early pandemic], which correlated with a dip in `Calls Answered Rate` (see **Figure 2**)."
-    * *Insert IMG-20250630-WA0001.jpg and IMG-20250630-WA0002.jpg here with captions.*
+    * "Our analysis reveals significant trends in `Average Time to Answer` and `Calls Answered Rate` over the years. As seen in **Figure 1** and **Figure 2** (`Call_center_performance.jpg`), we observed [describe trends, e.g., a notable increase in wait times during a specific period, which correlated with a dip in answered calls]."
 
 * **Relationship Between Wait Time and Answer Rate:**
-    * "A strong inverse relationship was identified between `Average Time to Answer (s)` and `Calls Answered Rate`. The scatter plot in **Figure 3** clearly demonstrates that as average wait times increase, the rate of answered calls tends to decrease significantly."
-    * *Insert IMG-20250630-WA0003.jpg here with caption.*
-    * "The linear regression model confirmed this relationship, with the model indicating that for every additional second in `Average Time to Answer`, the `Calls Answered Rate` is predicted to decrease by approximately [X]%." (Refer to your model's coefficient.)
-    * *Insert IMG-20250630-WA0004.jpg (if it shows model summary/results) here with caption.*
+    * "A strong inverse relationship was identified between `Average Time to Answer (s)` and `Calls Answered Rate`. The scatter plot in **Figure 3** (`Call_center_performance.jpg`) clearly demonstrates that as average wait times increase, the rate of answered calls tends to decrease significantly."
+    * "The linear regression model confirmed this relationship, with the model's results (see **Figure 4**, `Forecasting.jpg`) indicating that for every additional second in `Average Time to Answer`, the `Calls Answered Rate` is predicted to decrease by approximately [X]%." (Refer to your model's coefficient and R-squared from your analysis.)
 
 * **Impact of Call Type:**
-    * "Further breakdown by `Call Type` revealed that certain types of inquiries consistently had longer `Average Time to Answer` or lower `Calls Answered Rate` (e.g., 'Service Disruptions' or 'Lost and Found'). This is illustrated in **Figure 5**, indicating a need for specialized staffing or training for these specific call categories."
-    * *Insert IMG-20250630-WA0005.jpg here with caption.*
+    * "Further breakdown by `Call Type` revealed that certain types of inquiries consistently had longer `Average Time to Answer` or lower `Calls Answered Rate` (e.g., 'Service Disruptions' or 'Lost and Found'). This is illustrated in **Figure 5** (`Traffic_over_chnannels.jpg`), indicating a need for specialized staffing or training for these specific call categories."
 
 * **Seasonal/Monthly Patterns:**
-    * "We also observed [seasonal/monthly] variations in call volume and performance. For instance, `Total Calls Received` typically peaked in [Month/Season], suggesting a need for increased resources during these periods, as shown in **Figure 6**."
-    * *Insert IMG-20250630-WA0006.jpg here with caption.*
+    * "We also observed [seasonal/monthly] variations in call volume and performance. For instance, `Total Calls Received` typically peaked in [Month/Season], suggesting a need for increased resources during these periods, as shown in **Figure 6** (`Traffic_over_chnannels.jpg`)."
 
 * **Performance vs. Abandon Rate:**
-    * "Interestingly, there's a clear correlation between `Avg Time to Answer` and `Abandon Rate`, as depicted in **Figure 7**. Higher wait times directly contribute to a higher percentage of abandoned calls, impacting customer satisfaction negatively."
-    * *Insert IMG-20250630-WA0007.jpg here with caption.*
+    * "Interestingly, there's a clear correlation between `Avg Time to Answer` and `Abandon Rate`, as depicted in **Figure 7** (`Call_center_performance.jpg`). Higher wait times directly contribute to a higher percentage of abandoned calls, impacting customer satisfaction negatively."
 
 * **Overall Performance Over Time:**
-    * "An aggregated view of the `Calls Answered Rate` over the entire period (Figure 8) shows [describe overall trend – e.g., improvements, decline, or stability], providing a macro perspective on customer service effectiveness."
-    * *Insert IMG-20250630-WA0008.jpg here with caption.*
+    * "An aggregated view of the `Calls Answered Rate` over the entire period (Figure 8, `Executive_summary.jpg`) shows [describe overall trend – e.g., improvements, decline, or stability], providing a macro perspective on customer service effectiveness."
 
 ## Business Recommendations
 
@@ -142,25 +135,25 @@ To replicate this analysis:
 ---
 
 **Figure 1: Average Time to Answer (s) Over Time**
-![Average Time to Answer (s) Over Time](images/IMG-20250630-WA0001.jpg)
+![Average Time to Answer (s) Over Time](images/Call_center_performance.jpg)
 
 **Figure 2: Calls Answered Rate Over Time**
-![Calls Answered Rate Over Time](images/IMG-20250630-WA0002.jpg)
+![Calls Answered Rate Over Time](images/Call_center_performance.jpg)
 
 **Figure 3: Relationship Between Average Time to Answer and Calls Answered Rate (Scatter Plot)**
-![Relationship Between Average Time to Answer and Calls Answered Rate (Scatter Plot)](images/IMG-20250630-WA0003.jpg)
+![Relationship Between Average Time to Answer and Calls Answered Rate (Scatter Plot)](images/Call_center_performance.jpg)
 
 **Figure 4: Linear Regression Model Results (if applicable - e.g., showing R-squared, coefficients)**
-![Linear Regression Model Results](images/IMG-20250630-WA0004.jpg)
+![Linear Regression Model Results](images/Forecasting.jpg)
 
 **Figure 5: Average Time to Answer by Call Type**
-![Average Time to Answer by Call Type](images/IMG-20250630-WA0005.jpg)
+![Average Time to Answer by Call Type](images/Traffic_over_chnannels.jpg)
 
 **Figure 6: Total Calls Received by Month/Season (Example)**
-![Total Calls Received by Month/Season](images/IMG-20250630-WA0006.jpg)
+![Total Calls Received by Month/Season](images/Traffic_over_chnannels.jpg)
 
 **Figure 7: Average Time to Answer vs. Abandon Rate**
-![Average Time to Answer vs. Abandon Rate](images/IMG-20250630-WA0007.jpg)
+![Average Time to Answer vs. Abandon Rate](images/Call_center_performance.jpg)
 
 **Figure 8: Overall Calls Answered Rate (Aggregated)**
-![Overall Calls Answered Rate (Aggregated)](images/IMG-20250630-WA0008.jpg)
+![Overall Calls Answered Rate (Aggregated)](images/Executive_summary.jpg)
