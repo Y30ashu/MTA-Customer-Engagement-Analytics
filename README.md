@@ -52,7 +52,6 @@ The key steps I involved are:
 
 ## Analysis and Key Findings
 
-*(This section is crucial. I'll fill this in with the specific insights from my analysis. My screenshots are from Power BI and illustrate these points.)*
 
 Here are the key findings from my analysis, with each point corresponding to a distinct visualization:
 
@@ -111,30 +110,6 @@ Based on my analysis, here are actionable recommendations for MTA NYCT:
     * `Power BI`: For creating interactive dashboards and all visualizations (all screenshots included in this README are derived from Power BI).
 * **Notebook:** `MTA_NYCT.ipynb` contains the full code for data loading, preprocessing, EDA, and model building.
 
-## How to Run the Project
-
-To replicate this analysis:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourGitHubUsername/MTA-NYCT-Customer-Engagement-Analysis.git](https://github.com/YourGitHubUsername/MTA-NYCT-Customer-Engagement-Analysis.git)
-    cd MTA-NYCT-Customer-Engagement-Analysis
-    ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-3.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(If you don't create `requirements.txt`, you'll list individual `pip install` commands here for each library)*
-4.  **Open and run the Jupyter Notebook:**
-    ```bash
-    jupyter notebook notebooks/MTA_NYCT.ipynb
-    ```
-    Follow the instructions within the notebook to execute the code cells and view my analysis.
 
 ## Future Enhancements
 
@@ -145,4 +120,4 @@ To replicate this analysis:
 
 ## Contact
 
-[Yash Garg] - [linkedin.com/in/yg98] - [yashgarg9099@gmail.com]
+Yash Garg - linkedin.com/in/yg98 - yashgarg9099@gmail.com
